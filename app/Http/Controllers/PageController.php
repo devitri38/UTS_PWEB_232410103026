@@ -25,7 +25,6 @@ class PageController extends Controller
     {
         $dataPengunjung = [
             ['nama' => 'Winter', 'tanggal' => '2025-05-01', 'durasi' => '2 malam'],
-            ['nama' => 'L', 'tanggal' => '2025-05-03', 'durasi' => '1 malam'],
             ['nama' => 'Guanlin', 'tanggal' => '2025-05-04', 'durasi' => '3 malam'],
             ['nama' => 'Chen', 'tanggal' => '2025-05-05', 'durasi' => '2 malam'],
             ['nama' => 'Lay', 'tanggal' => '2025-05-06', 'durasi' => '1 malam'],
